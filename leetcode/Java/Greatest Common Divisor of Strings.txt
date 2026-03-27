@@ -1,0 +1,25 @@
+class Solution {
+    public String gcdOfStrings(String str1, String str2) {
+        // Step 1: Check if the strings concatenated in both orders are equal
+        // This handles cases like "LEET" and "CODE" or "AAAAAB" and "AAA"
+        if (!(str1 + str2).equals(str2 + str1)) {
+            return "";
+        }
+
+        // Step 2: Find the GCD of the lengths of the two strings
+        int gcdLength = findGcd(str1.length(), str2.length());
+
+        // Step 3: The result is the prefix of either string up to that GCD length
+        return str1.substring(0, gcdLength);
+    }
+
+    // A simple helper method to find GCD of two numbers without built-in libraries
+    private int findGcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
+    }
+}

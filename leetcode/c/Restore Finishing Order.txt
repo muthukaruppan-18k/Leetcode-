@@ -1,0 +1,15 @@
+
+int* recoverOrder(int* order, int orderSize, int* friends, int friendsSize, int* returnSize) {
+    int* res = malloc(friendsSize * sizeof(int));
+    int count = 0;
+    for (int i = 0; i < orderSize; i++) {
+        for (int j = 0; j < friendsSize; j++) {
+            if (order[i] == friends[j]) {
+                res[count++] = order[i];
+            }
+        }
+    }
+
+    *returnSize = friendsSize;
+    return res;
+}
