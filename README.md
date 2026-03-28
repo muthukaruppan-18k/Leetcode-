@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
