@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3668-restore-finishing-order) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0605-can-place-flowers) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
