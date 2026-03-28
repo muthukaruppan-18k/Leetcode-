@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0136-single-number) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1768-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
