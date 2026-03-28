@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3701-compute-alternating-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3701-compute-alternating-sum) |
 ## Trie
 |  |
 | ------- |
