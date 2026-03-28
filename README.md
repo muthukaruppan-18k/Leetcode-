@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0771-jewels-and-stones](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0561-array-partition) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
