@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0136-single-number) |
+| [1920-build-array-from-permutation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0001-two-sum) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
