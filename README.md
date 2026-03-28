@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0136-single-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
