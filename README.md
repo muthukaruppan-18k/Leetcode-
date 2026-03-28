@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0136-single-number) |
 | [1920-build-array-from-permutation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3668-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0001-two-sum) |
+| [3668-restore-finishing-order](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3668-restore-finishing-order) |
 ## Simulation
 |  |
 | ------- |
