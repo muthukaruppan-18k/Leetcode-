@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1688-count-of-matches-in-tournament) |
+| [2413-smallest-even-multiple](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
