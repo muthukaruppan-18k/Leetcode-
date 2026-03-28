@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0066-plus-one) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1688-count-of-matches-in-tournament) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0136-single-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
