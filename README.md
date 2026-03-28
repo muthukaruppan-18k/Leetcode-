@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0066-plus-one) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0771-jewels-and-stones](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0771-jewels-and-stones) |
 | [3668-restore-finishing-order](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3668-restore-finishing-order) |
 ## Simulation
