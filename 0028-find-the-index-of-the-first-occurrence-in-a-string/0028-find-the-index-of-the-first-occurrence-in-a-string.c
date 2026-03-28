@@ -1,0 +1,27 @@
+int strStr(char* haystack, char* needle) {
+    int hLen = strlen(haystack);
+    int nLen = strlen(needle);
+
+    // If needle is empty, the answer is always 0
+    if (nLen == 0) return 0;
+
+    for (int i = 0; i <= hLen - nLen; i++) {
+        int match = 1; // Assume it matches at this 'i'
+
+        for (int j = 0; j < nLen; j++) {
+            // Check if characters at this position are different
+            if (haystack[i + j] != needle[j]) {
+                match = 0; // It's a fail
+                break;     // Stop checking the needle and move 'i'
+            }
+        }
+
+        // If we finished the needle loop and 'match' is still 1, we found it!
+        if (match == 1) {
+            return i;
+        }
+    }
+
+    // If we checked the whole haystack and found nothing
+    return -1;
+}
