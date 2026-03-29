@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2540-minimum-common-value](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0704-binary-search) |
+| [2540-minimum-common-value](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1768-merge-strings-alternately) |
+| [2540-minimum-common-value](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0771-jewels-and-stones) |
+| [2540-minimum-common-value](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2540-minimum-common-value) |
 | [3668-restore-finishing-order](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3668-restore-finishing-order) |
 ## Simulation
 |  |
