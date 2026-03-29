@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0136-single-number) |
 | [0561-array-partition](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0704-binary-search) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
