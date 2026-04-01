@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3270-find-the-key-of-the-numbers](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3270-find-the-key-of-the-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
