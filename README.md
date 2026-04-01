@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2544-alternating-digit-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
