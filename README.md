@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3270-find-the-key-of-the-numbers](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3270-find-the-key-of-the-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
