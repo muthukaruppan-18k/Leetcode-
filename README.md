@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0136-single-number) |
 | [0561-array-partition](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0605-can-place-flowers) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
