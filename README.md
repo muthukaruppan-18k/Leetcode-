@@ -172,4 +172,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
