@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3701-compute-alternating-sum) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0771-jewels-and-stones) |
 | [2540-minimum-common-value](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2540-minimum-common-value) |
 | [3668-restore-finishing-order](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3668-restore-finishing-order) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Simulation
 |  |
 | ------- |
