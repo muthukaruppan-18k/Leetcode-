@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0509-fibonacci-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Memoization
