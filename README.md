@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0231-power-of-two) |
+| [0397-integer-replacement](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0397-integer-replacement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0605-can-place-flowers) |
 ## Enumeration
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0397-integer-replacement](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
