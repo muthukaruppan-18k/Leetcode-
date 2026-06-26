@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0561-array-partition](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2540-minimum-common-value) |
 ## Math
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
+| [0240-search-a-2d-matrix-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Sliding Window
 |  |
