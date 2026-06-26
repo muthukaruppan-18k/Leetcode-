@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0561-array-partition](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2540-minimum-common-value) |
 ## Math
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1768-merge-strings-alternately](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1768-merge-strings-alternately) |
 | [2540-minimum-common-value](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2540-minimum-common-value) |
 ## String
