@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2540-minimum-common-value) |
 ## Math
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0231-power-of-two) |
 | [0397-integer-replacement](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0397-integer-replacement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0100-same-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0100-same-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
 | ------- |
