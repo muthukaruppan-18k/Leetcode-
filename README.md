@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1837-sum-of-digits-in-base-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1952-three-divisors](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -152,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1952-three-divisors](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
