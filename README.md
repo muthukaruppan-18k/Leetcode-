@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0704-binary-search) |
+| [1389-create-target-array-in-the-given-order](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1534-count-good-triplets](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1534-count-good-triplets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
