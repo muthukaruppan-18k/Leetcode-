@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1991-find-the-middle-index-in-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2540-minimum-common-value](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2540-minimum-common-value) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0771-jewels-and-stones) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2540-minimum-common-value](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2540-minimum-common-value) |
 | [3668-restore-finishing-order](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3668-restore-finishing-order) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0561-array-partition) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Stack
 |  |
 | ------- |
