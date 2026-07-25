@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/0051-n-queens) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
