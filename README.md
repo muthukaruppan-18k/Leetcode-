@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2540-minimum-common-value](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2540-minimum-common-value) |
 | [3668-restore-finishing-order](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Simulation
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/muthukaruppan-18k/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
